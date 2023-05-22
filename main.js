@@ -1,0 +1,1 @@
+id.innerHTML = "hello from an extern script";
