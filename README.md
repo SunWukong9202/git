@@ -4,3 +4,11 @@ the following is markdown list
 - [ ] Write all the test
 - [ ] Document the code
 
+a code snippet
+```java
+for(int i = 0; i < 5; i++)
+{
+  System.out.println("i is: " + i);
+}
+```
+
